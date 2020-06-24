@@ -1,3 +1,5 @@
+#NOTE TO SELF: IN DE JSON ZIT HARDCODED JE APPLICATION PASSWORD!!!!!
+
 # newman-wrapper
 CLI wrapper for Newman
 
@@ -31,6 +33,8 @@ Nota bene:
 
 Todo: 
 -----
+* Application password zit nu hardcoded in de JSON omdat de site waarop ik aan t testen was niet publiekelijk toegankelijk was. Veranderen naar Blogger.com ofzo.
+
 * autoit JSON generator gebruiken ipv het er hardcoded inzetten
 
 JSON (by Gabriel13) - RFC4627 compliant JSON encode/decode.
